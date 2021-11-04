@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leahhornsey
-- 👀 I’m interested in geophysics and climate science.
+- 👀 I’m interested in using remote sensing and geospatial analysis to understand geophysics and climate patterns.
 - 📫 How to reach me ...
       LINKEDIN: www.linkedin.com/in/leah-hornsey-100
       
